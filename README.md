@@ -8,7 +8,6 @@
 - Spring boot
 - JPA
 - H2 database
-- 자세한 사항은 pom.xml 참고
 
 ## End-points 
 |HTTP method|Path|기능|
